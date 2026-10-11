@@ -42,10 +42,22 @@
 
 - [GitHub](https://github.com/geowieland/swash_official)
 - [CRAN](https://cran.r-project.org/package=swash)
+- [Zenodo](https://doi.org/10.5281/zenodo.18652150)  
 
 ### Documentation
 
 - [Reference manual (CRAN)](https://cran.r-project.org/web/packages/swash/refman/swash.html)
+
+
+## C19dNUTS: Dataset of Regional COVID-19 Deaths per 100,000 Pop (NUTS)
+
+### Availability
+
+- [CRAN](https://cran.r-project.org/package=C19dNUTS)
+
+### Documentation
+
+- [Reference manual (CRAN)](https://cran.r-project.org/web/packages/C19dNUTS/refman/C19dNUTS.html)
 
 
 ## REAT: Regional Economic Analysis Toolbox
@@ -59,6 +71,15 @@
 - [Software paper](https://doi.org/10.18335/region.v6i3.267)  
 - [Case study](https://www.westermann.de/anlage/4642908/50-Jahre-Suedtiroler-Autonomie-Regionaloekonomische-Entwicklung-einer-laendlichen-Boomregion)  
 - [Reference manual (CRAN)](https://cran.r-project.org/web/packages/REAT/refman/REAT.html)
+
+
+## MCI2: Market Area Models for Retail and Service Locations
+
+### Availability
+
+not publicly available
+
+- [previous CRAN page](https://cran.r-project.org/package=MCI2)
 
 
 ## MCI: Multiplicative Competitive Interaction (MCI) Model
@@ -76,7 +97,9 @@
 
 ---
 
-© Thomas Wieland 2026
+© [Thomas Wieland](mailto:geowieland@googlemail.com) 2026
+
+[Privacy Notice](privacy)
 
 *Python logo: Python® and the Python logos are trademarks
 of the Python Software Foundation (PSF).
