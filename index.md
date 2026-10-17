@@ -8,6 +8,8 @@ No, (attractive) web design, HTML, and JavaScript are not among my areas of focu
 [Software projects](projects.md)  
 
 
+<br>
+
 ---
 
 © [Thomas Wieland](mailto:geowieland@googlemail.com) 2026

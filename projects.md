@@ -1,5 +1,7 @@
 # Open-source software projects
 
+<br>
+
 <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"
      alt="Python"
      width="50">
@@ -35,6 +37,7 @@ The `diffindiff` Python library is designed for performing Difference-in-Differe
 
 - [Case study (preprint)](https://doi.org/10.48550/arXiv.2605.21464)  
 
+<br>
 
 <img src="https://www.r-project.org/logo/Rlogo.png"
      alt="R"
@@ -68,10 +71,20 @@ Dataset containing cumulative COVID-19 deaths (absolute and per 100,000 pop) at 
 - [Reference manual (CRAN)](https://cran.r-project.org/web/packages/C19dNUTS/refman/C19dNUTS.html)
 
 
+## MCI2: Market Area Models for Retail and Service Locations
+
+Market area models are used to analyze and predict store choices and market areas concerning retail and service locations. This package is a more user-friendly wrapper of the functions in the package `MCI` providing market area analysis using the Huff Model or the Multiplicative Competitive Interaction (MCI) Model. In `MCI2`, also a function for creating transport costs matrices is provided. 
+
+### Availability
+
+not publicly available
+
+- [previous CRAN page](https://cran.r-project.org/package=MCI2)
+
+
 ## REAT: Regional Economic Analysis Toolbox
 
-Collection of models and analysis methods used in regional and urban economics and (quantitative) economic geography, e.g., measures of inequality, regional disparities and convergence, regional specialization, spatial concentration of industries (clusters), as well as regional growth analysis methods.
-
+The `REAT` package is a collection of models and analysis methods used in regional and urban economics and (quantitative) economic geography. It includes functions from the following seven thematic groups: (1) Inequality, concentration and dispersion indicators, (2) Indicators of specialization of regions and spatial concentration of industries, (3) Analysis of regional disparities and regional convergence, (4) Analysis of regional growth, (5) Spatial interaction and accessibility models, (6) Proximity analysis, and (7) Additional tools for data preparation und visualization.
 
 ### Availability
 
@@ -82,17 +95,6 @@ Collection of models and analysis methods used in regional and urban economics a
 - [Software paper](https://doi.org/10.18335/region.v6i3.267)  
 - [Case study](https://www.westermann.de/anlage/4642908/50-Jahre-Suedtiroler-Autonomie-Regionaloekonomische-Entwicklung-einer-laendlichen-Boomregion)  
 - [Reference manual (CRAN)](https://cran.r-project.org/web/packages/REAT/refman/REAT.html)
-
-
-## MCI2: Market Area Models for Retail and Service Locations
-
-Market area models are used to analyze and predict store choices and market areas concerning retail and service locations. This package is a more user-friendly wrapper of the functions in the package `MCI` providing market area analysis using the Huff Model or the Multiplicative Competitive Interaction (MCI) Model. In `MCI2`, also a function for creating transport costs matrices is provided. 
-
-### Availability
-
-not publicly available
-
-- [previous CRAN page](https://cran.r-project.org/package=MCI2)
 
 
 ## MCI: Multiplicative Competitive Interaction (MCI) Model
@@ -119,7 +121,7 @@ See the [PSF trademark policy](https://www.python.org/psf/trademarks/).*
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 Unmodified. See the [official R logo page](https://www.r-project.org/logo/).*
 
-
+<br>
 
 ---
 

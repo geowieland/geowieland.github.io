@@ -36,7 +36,7 @@ Hi, I'm Thomas, and I'm a geographer through and through. However, I'm not the k
 - See the full list of all publications and presentations [here](files/Publications_Wieland_2026-10-11.pdf)
 - Take a look at my former [staff page at KIT](https://www.ifgg.kit.edu/mitarbeiter_wieland.php)
 
-
+<br>
 
 ---
 
