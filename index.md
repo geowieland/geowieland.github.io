@@ -12,4 +12,4 @@ No, (attractive) web design, HTML, and JavaScript are not among my areas of focu
 
 © [Thomas Wieland](mailto:geowieland@googlemail.com) 2026
 
-[About](about.md) [Software projects](projects.md) [Privacy Notice](privacy)
+[Start](index.md) | [About](about.md) | [Software projects](projects.md) | [Privacy Notice](privacy)

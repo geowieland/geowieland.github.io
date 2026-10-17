@@ -1,10 +1,11 @@
-# Software Packages by Thomas Wieland (geowieland)
+# Open-source software projects
 
 <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"
      alt="Python"
      width="50">
 
-## huff: Market Area Analysis in Python
+## huff
+Market Area Analysis in Python
 
 ### Availability
 
@@ -19,7 +20,8 @@
 - [Medium article](https://medium.com/@geowieland/oldie-but-goodie-market-area-models-and-retail-location-analysis-in-python-9f6609355585?source=friends_link&sk=a0314d63cee214cda92aa8fd13d92b64)  
 
 
-## diffindiff: Python library for convenient Difference-in-Differences analyses
+## diffindiff
+Python library for convenient Difference-in-Differences analyses
 
 ### Availability
 
@@ -36,7 +38,8 @@
      alt="R"
      width="50">
 
-## swash: Health Geography Toolbox for Model-Based Analysis of Infections Panel Data
+## swash
+Health Geography Toolbox for Model-Based Analysis of Infections Panel Data
 
 ### Availability
 
@@ -49,7 +52,8 @@
 - [Reference manual (CRAN)](https://cran.r-project.org/web/packages/swash/refman/swash.html)
 
 
-## C19dNUTS: Dataset of Regional COVID-19 Deaths per 100,000 Pop (NUTS)
+## C19dNUTS
+Dataset of Regional COVID-19 Deaths per 100,000 Pop (NUTS)
 
 ### Availability
 
@@ -60,7 +64,8 @@
 - [Reference manual (CRAN)](https://cran.r-project.org/web/packages/C19dNUTS/refman/C19dNUTS.html)
 
 
-## REAT: Regional Economic Analysis Toolbox
+## REAT
+Regional Economic Analysis Toolbox
 
 ### Availability
 
@@ -73,7 +78,8 @@
 - [Reference manual (CRAN)](https://cran.r-project.org/web/packages/REAT/refman/REAT.html)
 
 
-## MCI2: Market Area Models for Retail and Service Locations
+## MCI2
+Market Area Models for Retail and Service Locations
 
 ### Availability
 
@@ -82,7 +88,8 @@ not publicly available
 - [previous CRAN page](https://cran.r-project.org/package=MCI2)
 
 
-## MCI: Multiplicative Competitive Interaction (MCI) Model
+## MCI
+Multiplicative Competitive Interaction (MCI) Model
 
 ### Availability
 
@@ -94,13 +101,6 @@ not publicly available
 - [Reference manual (CRAN)](https://cran.r-project.org/web/packages/MCI/refman/MCI.html)
 
 
-
----
-
-© [Thomas Wieland](mailto:geowieland@googlemail.com) 2026
-
-[About](about.md) [Software projects](projects.md) [Privacy Notice](privacy)
-
 *Python logo: Python® and the Python logos are trademarks
 of the Python Software Foundation (PSF).
 Used to indicate that this package is implemented in Python.
@@ -110,3 +110,11 @@ See the [PSF trademark policy](https://www.python.org/psf/trademarks/).*
 *R logo © The R Foundation, licensed under
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 Unmodified. See the [official R logo page](https://www.r-project.org/logo/).*
+
+
+
+---
+
+© [Thomas Wieland](mailto:geowieland@googlemail.com) 2026
+
+[Start](index.md) | [About](about.md) | [Software projects](projects.md) | [Privacy Notice](privacy)

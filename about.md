@@ -1,52 +1,40 @@
-# CV
+# About
 
-## Work
+Hi, I'm Thomas, and I'm a geographer through and through. However, I'm not the kind of geographer who travels the world as part of their job. That's why, instead of an Instagram account filled with beautiful travel photos, I have this GitHub page. I specialize in quantitative economic and social geography, with a methodological focus on statistics and econometrics, machine learning, and GIS. During my PhD, and especially in the years that followed, I became increasingly dissatisfied with the capabilities of the proprietary software available for data analysis at the time. This led me to start using R in 2015. A year later, I released my first R package. I develop open-source software for geographical analysis in Python and R, with a strong focus on scientific applications. (I'm self-taught when it comes to programming, so unfortunately, some of my code shows it. Sorry about that!)
+
+![Photo](files/geowieland_aletsch_small.jpg)
+
+## CV
+
+### Employment
 
 **Since 2023**: Data Scientist at Coop, Basel (CH)*
 
-**2016-2022**: Postdoc at Karlsruhe Institute of Technology, Institute of Geography and Geoecology, Karlsruhe
+**2016-2022**: Postdoctoral researcher at Karlsruhe Institute of Technology (KIT), Institute of Geography and Geoecology, Karlsruhe
 
 **2012-2016**: Researcher and project manager at Institut für Stadt- und Regionalmanagement (ISR), Munich
 
-**2010-2012**: External employee for GIS projects at Autonome Provinz Bozen/Südtirol – Landesinstitut für Statistik (ASTAT), Bozen (IT)
+**2010-2012**: External GIS project consultant at Autonome Provinz Bozen/Südtirol – Landesinstitut für Statistik (ASTAT), Bozen (IT)
 
 **2008-2013**: Research assistant at Georg August University Göttingen, Institute of Geography
 
 **Since 2016**: Independent Open-Source Developer (hobby)
 
-## Education
+### Education
 
 **2009-2014** PhD at the University of Göttingen; graduated with the degree *Dr. rer. nat*
 
 **2002-2008** Studied Geography at the University of Göttingen; graduated with the degree of *Diplom-Geograph* (Master equivalent)
 
-# Current publications
+*My open-source software projects are developed independently in my personal time and are not affiliated with, endorsed by, or representative of my employer. Any views or opinions expressed through these projects are my own and do not necessarily reflect those of my employer.
 
-Wieland T (2026) Aus der Pandemie lernen – Gesundheitsgeographische Bewertung von Public-Health-Maßnahmen.
-*Standort – Zeitschrift für Angewandte Geographie* 50(2), 131–138.
-[10.1007/s00548-025-00997-3](https://doi.org/10.1007/s00548-025-00997-3)
 
-Kapitza J, Wieland T, Metzler M (2026)
-Modeling hospital catchment areas in pediatric oncology using an empirically parameterized extended Huff model.
-*International Journal of Health Geographics* 25, 35.
-[10.1186/s12942-026-00478-2](https://doi.org/10.1186/s12942-026-00478-2)
+## Scientific work
 
-Wieland T (2025)
-Know your competitor! Analyzing and predicting the location of competing stores: The case study of Valora at Swiss railway stations.
-*REGION* 12(2), 1–22.
-[10.18335/region.v12i2.57](https://doi.org/10.18335/region.v12i2.573)
-
-Rauch S, Wieland T, Rauh J (2025)
-Accessibility of food – A multilevel approach comparing a choice based model with perceived accessibility in Mainfranken, Germany.
-*Journal of Transport Geography* 128, 104367. 
-[10.1016/j.jtrangeo.2025.104367](https://doi.org/10.1016/j.jtrangeo.2025.104367)
-
-Wieland T (2025)
-Assessing the effectiveness of non-pharmaceutical interventions in the SARS-CoV-2 pandemic: Results of a natural experiment regarding Baden-Württemberg (Germany) and Switzerland in the second infection wave
-*Journal of Public Health: From Theory to Practice* 33(11), 2497-2511. 
-[10.1007/s10389-024-02218-x](https://doi.org/10.1007/s10389-024-02218-x)
-
-See the full list of all publications and presentations [here](files/Publications_Wieland_2026-10-11.pdf)
+- See my [ResearchGate profile](https://www.researchgate.net/profile/Thomas-Wieland-5)
+- See my [Google Scholar profile](https://scholar.google.com/citations?user=zaddjHsAAAAJ&hl=de)
+- See the full list of all publications and presentations [here](files/Publications_Wieland_2026-10-11.pdf)
+- Take a look at my former [staff page at KIT](https://www.ifgg.kit.edu/mitarbeiter_wieland.php)
 
 
 
@@ -54,6 +42,4 @@ See the full list of all publications and presentations [here](files/Publication
 
 © [Thomas Wieland](mailto:geowieland@googlemail.com) 2026
 
-[About](about.md) [Software projects](projects.md) [Privacy Notice](privacy)
-
-*My open-source software projects are developed independently in my personal time and are not affiliated with, endorsed by, or representative of my employer. Any views or opinions expressed through these projects are my own and do not necessarily reflect those of my employer.
+[Start](index.md) | [About](about.md) | [Software projects](projects.md) | [Privacy Notice](privacy)
