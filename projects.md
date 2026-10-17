@@ -4,8 +4,9 @@
      alt="Python"
      width="50">
 
-## huff
-Market Area Analysis in Python
+## huff: Market Area Analysis in Python
+
+The `huff` Python library is designed for performing market area analyses with the Huff Model and/or the Multiplicative Competitive Interaction (MCI) Model, as well as market area and accessibility models derived from or related to them. The package is intended for researchers in economic geography, regional economics, marketing, geoinformation science, and health geography. It is designed to cover the entire workflow of a market area analysis, including model calibration and GIS-related processing.
 
 ### Availability
 
@@ -15,13 +16,14 @@ Market Area Analysis in Python
 
 ### Documentation
 
-- [Software paper](https://arxiv.org/abs/2602.17640)  
+- [Software paper (preprint)](https://arxiv.org/abs/2602.17640)  
 - [Methodological handbook](https://geowieland.github.io/huff_official/)  
 - [Medium article](https://medium.com/@geowieland/oldie-but-goodie-market-area-models-and-retail-location-analysis-in-python-9f6609355585?source=friends_link&sk=a0314d63cee214cda92aa8fd13d92b64)  
 
 
-## diffindiff
-Python library for convenient Difference-in-Differences analyses
+## diffindiff: Python library for convenient Difference-in-Differences analyses
+
+The `diffindiff` Python library is designed for performing Difference-in-Differences (DiD) analyses in a convenient way. The package is intended to be used in econometric analyses of natural experiments by researchers in economics, marketing, economic geography, and health sciences. It is designed to cover the entire workflow of a DiD analysis, while not requiring extensive programming skills.
 
 ### Availability
 
@@ -31,15 +33,16 @@ Python library for convenient Difference-in-Differences analyses
 
 ### Documentation
 
-- [Case study](https://doi.org/10.48550/arXiv.2605.21464)  
+- [Case study (preprint)](https://doi.org/10.48550/arXiv.2605.21464)  
 
 
 <img src="https://www.r-project.org/logo/Rlogo.png"
      alt="R"
      width="50">
 
-## swash
-Health Geography Toolbox for Model-Based Analysis of Infections Panel Data
+## swash: Health Geography Toolbox for Model-Based Analysis of Infections Panel Data
+
+Within epidemic outbreaks, infections grow and decline differently between regions, and the velocity of spatial spread differs between countries. The `swash` library offers a set of model-based analyses for these topics. Spread velocity may be analysed with the Swash-Backwash Model of the Single Epidemic Wave and corresponding functions for bootstrap confidence intervals, country comparison, and visualization of results. Differences in epidemic growth between regions may be analysed using logistic growth models, exponential growth models, Hawkes processes and breakpoint analyses. Cluster and hotspot analyses can be conducted using neighborhood matrices.
 
 ### Availability
 
@@ -52,8 +55,9 @@ Health Geography Toolbox for Model-Based Analysis of Infections Panel Data
 - [Reference manual (CRAN)](https://cran.r-project.org/web/packages/swash/refman/swash.html)
 
 
-## C19dNUTS
-Dataset of Regional COVID-19 Deaths per 100,000 Pop (NUTS)
+## C19dNUTS: Dataset of Regional COVID-19 Deaths per 100,000 Pop (NUTS)
+
+Dataset containing cumulative COVID-19 deaths (absolute and per 100,000 pop) at the regional level (mostly NUTS 3) for 31 EU/EFTA countries.
 
 ### Availability
 
@@ -64,8 +68,10 @@ Dataset of Regional COVID-19 Deaths per 100,000 Pop (NUTS)
 - [Reference manual (CRAN)](https://cran.r-project.org/web/packages/C19dNUTS/refman/C19dNUTS.html)
 
 
-## REAT
-Regional Economic Analysis Toolbox
+## REAT: Regional Economic Analysis Toolbox
+
+Collection of models and analysis methods used in regional and urban economics and (quantitative) economic geography, e.g., measures of inequality, regional disparities and convergence, regional specialization, spatial concentration of industries (clusters), as well as regional growth analysis methods.
+
 
 ### Availability
 
@@ -78,8 +84,9 @@ Regional Economic Analysis Toolbox
 - [Reference manual (CRAN)](https://cran.r-project.org/web/packages/REAT/refman/REAT.html)
 
 
-## MCI2
-Market Area Models for Retail and Service Locations
+## MCI2: Market Area Models for Retail and Service Locations
+
+Market area models are used to analyze and predict store choices and market areas concerning retail and service locations. This package is a more user-friendly wrapper of the functions in the package `MCI` providing market area analysis using the Huff Model or the Multiplicative Competitive Interaction (MCI) Model. In `MCI2`, also a function for creating transport costs matrices is provided. 
 
 ### Availability
 
@@ -88,8 +95,9 @@ not publicly available
 - [previous CRAN page](https://cran.r-project.org/package=MCI2)
 
 
-## MCI
-Multiplicative Competitive Interaction (MCI) Model
+## MCI: Multiplicative Competitive Interaction (MCI) Model
+
+Market area models are used to analyze and predict store choices and market areas concerning retail and service locations. This package implements two market area models (Huff Model, Multiplicative Competitive Interaction Model) into `R`, while the emphases lie on 1.) fitting these models based on empirical data via OLS regression and nonlinear techniques and 2.) data preparation and processing (esp. interaction matrices and data preparation for the MCI Model).
 
 ### Availability
 
