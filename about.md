@@ -30,7 +30,7 @@ In any case, my goal is for the analysis software to be as closely aligned as po
 
 ### Education
 
-**2009-2014** PhD at the University of Göttingen; graduated with the degree *Dr. rer. nat*
+**2009-2014** PhD in Geography at the University of Göttingen; graduated with the degree *Dr. rer. nat*
 
 **2002-2008** Studied Geography at the University of Göttingen; graduated with the degree of *Diplom-Geograph* (Master equivalent)
 
