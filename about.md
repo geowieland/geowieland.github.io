@@ -2,7 +2,7 @@
 
 Hi, I'm Thomas, and I'm a geographer through and through. However, I'm not the kind of geographer who travels the world as part of their job. That's why, instead of an Instagram account filled with beautiful travel photos, I have this GitHub page. 
 
-I specialize in quantitative economic and social geography, with a methodological focus on statistics and econometrics, machine learning, and GIS. During my PhD, and especially in the years that followed, I became increasingly dissatisfied with the capabilities of the proprietary software available for data analysis at the time. This led me to start working with R in 2015. A year later, I released my first R package. 
+I specialize in quantitative economic and urban geography, with a methodological focus on statistics and econometrics, machine learning, and GIS. During my PhD, and especially in the years that followed, I became increasingly dissatisfied with the capabilities of the proprietary software available for data analysis at the time. This led me to start working with R in 2015. A year later, I released my first R package. 
 
 I develop open-source software for geographical analysis in Python and R. The motivation for most of what I do in this field stems from specific questions arising from my scientific work. Occasionally, however, it also involves analytical questions driven purely by personal interest. (I'm self-taught when it comes to programming, so unfortunately, some of my code shows it. Sorry about that!) 
 
@@ -35,10 +35,22 @@ I develop open-source software for geographical analysis in Python and R. The mo
 
 ## Scientific work
 
+### Research topics
+
+During my active career as a scientist, these were my primary research focus areas:
+
+- Retail geography, especially consumer behavior (store and channel choice) in the context of multi-channel retailing, market areas of stores, and location analysis
+
+- Health geography, especially spatial accessibility of health care locations, spatial analysis of epidemic spreads, and evaluation of the effectiveness of non-pharmaceutical interventions
+
+- Regional economic growth and disparities, and methods of regional analysis
+
+### Academic profiles and links
+
 - See my [ResearchGate profile](https://www.researchgate.net/profile/Thomas-Wieland-5)
 - See my [Google Scholar profile](https://scholar.google.com/citations?user=zaddjHsAAAAJ&hl=de)
 - See the full list of all publications and presentations [here](files/Publications_Wieland_2026-10-11.pdf)
-- Take a look at my former [staff page at KIT](https://www.ifgg.kit.edu/mitarbeiter_wieland.php)
+- See my former [staff page at KIT](https://www.ifgg.kit.edu/mitarbeiter_wieland.php)
 
 <br>
 
