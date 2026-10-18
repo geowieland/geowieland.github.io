@@ -10,6 +10,8 @@ In any case, my goal is for the analysis software to be as closely aligned as po
 
 ![Photo](files/geowieland_aletsch_small.jpg)
 
+<br>
+
 ## CV
 
 ### Employment
@@ -23,8 +25,6 @@ In any case, my goal is for the analysis software to be as closely aligned as po
 **2010-2012**: External GIS project consultant at Autonome Provinz Bozen/Südtirol – Landesinstitut für Statistik (ASTAT), Bozen (IT)
 
 **2008-2013**: Research assistant at Georg August University Göttingen, Institute of Geography
-
-**Since 2016**: Independent Open-Source Developer (hobby)
 
 *My open-source software projects are developed independently in my personal time and are not affiliated with, endorsed by, or representative of my employer. Any views or opinions expressed through these projects are my own and do not necessarily reflect those of my employer.
 
