@@ -4,7 +4,9 @@ Hi, I'm Thomas, and I'm a geographer through and through. However, I'm not the k
 
 I specialize in quantitative economic and social geography, with a methodological focus on statistics and econometrics, machine learning, and GIS. During my PhD, and especially in the years that followed, I became increasingly dissatisfied with the capabilities of the proprietary software available for data analysis at the time. This led me to start working with R in 2015. A year later, I released my first R package. 
 
-I develop open-source software for geographical analysis in Python and R. (I'm self-taught when it comes to programming, so unfortunately, some of my code shows it. Sorry about that). The motivation for most of what I do in this field stems from specific questions arising from my scientific work. Occasionally, however, it also involves analytical questions driven purely by personal interest. In any case, my goal is for the analysis software to be as closely aligned as possible with practical scientific application. Ideally, it should facilitate the entire analysis workflow, specifically for users who possess the necessary domain expertise to understand what they are doing, but who have, at best, only rudimentary programming skills (which is roughly the situation I was in during my PhD).
+I develop open-source software for geographical analysis in Python and R. The motivation for most of what I do in this field stems from specific questions arising from my scientific work. Occasionally, however, it also involves analytical questions driven purely by personal interest. (I'm self-taught when it comes to programming, so unfortunately, some of my code shows it. Sorry about that!) 
+
+In any case, my goal is for the analysis software to be as closely aligned as possible with practical scientific application. Ideally, it should facilitate the entire analysis workflow, specifically for users who possess the necessary domain expertise to understand what they are doing, but who have, at best, only rudimentary programming skills (which is roughly the situation I was in during my PhD).
 
 ![Photo](files/geowieland_aletsch_small.jpg)
 
@@ -24,13 +26,13 @@ I develop open-source software for geographical analysis in Python and R. (I'm s
 
 **Since 2016**: Independent Open-Source Developer (hobby)
 
+*My open-source software projects are developed independently in my personal time and are not affiliated with, endorsed by, or representative of my employer. Any views or opinions expressed through these projects are my own and do not necessarily reflect those of my employer.
+
 ### Education
 
 **2009-2014** PhD at the University of Göttingen; graduated with the degree *Dr. rer. nat*
 
 **2002-2008** Studied Geography at the University of Göttingen; graduated with the degree of *Diplom-Geograph* (Master equivalent)
-
-*My open-source software projects are developed independently in my personal time and are not affiliated with, endorsed by, or representative of my employer. Any views or opinions expressed through these projects are my own and do not necessarily reflect those of my employer.
 
 
 ## Scientific work
