@@ -6,8 +6,6 @@ I specialize in quantitative economic and social geography, with a methodologica
 
 I develop open-source software for geographical analysis in Python and R. The motivation for most of what I do in this field stems from specific questions arising from my scientific work. Occasionally, however, it also involves analytical questions driven purely by personal interest. (I'm self-taught when it comes to programming, so unfortunately, some of my code shows it. Sorry about that!) 
 
-In any case, my goal is for the analysis software to be as closely aligned as possible with practical scientific application. Ideally, it should facilitate the entire analysis workflow, specifically for users who possess the necessary domain expertise to understand what they are doing, but who have, at best, only rudimentary programming skills (which is roughly the situation I was in during my PhD).
-
 ![Photo](files/geowieland_aletsch_small.jpg)
 
 <br>
@@ -30,9 +28,9 @@ In any case, my goal is for the analysis software to be as closely aligned as po
 
 ### Education
 
-**2009-2014** PhD in Geography at the University of Göttingen; graduated with the degree *Dr. rer. nat*
+**2009-2014** PhD in Geography at the University of Göttingen, graduated with the degree *Dr. rer. nat*
 
-**2002-2008** Studied Geography at the University of Göttingen; graduated with the degree of *Diplom-Geograph* (Master equivalent)
+**2002-2008** Studied Geography at the University of Göttingen, graduated with the degree of *Diplom-Geograph* (Master equivalent)
 
 
 ## Scientific work
