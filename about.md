@@ -22,6 +22,8 @@ I develop open-source software for geographical analysis in Python and R. The mo
 
 **2010-2012**: External GIS project consultant at Autonome Provinz Bozen/Südtirol – Landesinstitut für Statistik (ASTAT), Bozen (IT)
 
+**Since 2010**: Part-time professional activity as a lecturer and (previously) also as a consultant/analyst
+
 **2008-2013**: Research assistant at Georg August University Göttingen, Institute of Geography
 
 *My open-source software projects are developed independently in my personal time and are not affiliated with, endorsed by, or representative of my employer. Any views or opinions expressed through these projects are my own and do not necessarily reflect those of my employer.
@@ -47,8 +49,8 @@ During my active career as a scientist, these were my research focus areas:
   - Spatial analysis of epidemic spreads
   - Evaluation of the effectiveness of non-pharmaceutical interventions (NPI)
 
-- Other topics (selection)
-  - Economic growth and disparities in South Tyrol 
+- Some other topics
+  - Economic growth and disparities
   - GIS-based analysis of the development of settlement areas and cultural landscapes
   - Economic impact of tourism and tourist attractions
   - Analysis of residential real estate markets
