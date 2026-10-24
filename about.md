@@ -35,8 +35,6 @@ I develop open-source software for geographical analysis in Python and R. The mo
 
 ## Scientific work
 
-### Research topics
-
 During my active career as a scientist, these were my research focus areas:
 
 - Retail geography
@@ -55,14 +53,7 @@ During my active career as a scientist, these were my research focus areas:
   - Economic impact of tourism and tourist attractions
   - Analysis of residential real estate markets
 
-### Academic profiles and links
-
-- [LinkedIn](https://www.linkedin.com/in/thomas-wieland-6b3070b2)
-- [ResearchGate](https://www.researchgate.net/profile/Thomas-Wieland-5)
-- [Google Scholar](https://scholar.google.com/citations?user=zaddjHsAAAAJ&hl=de)
-- [ORCID](https://orcid.org/0000-0001-5168-9846)
-
-Information on past projects is available, in part, on my [former staff page at KIT](https://www.ifgg.kit.edu/mitarbeiter_wieland.php). See the full list of all publications and presentations [here](files/Publications_Wieland_2026-10-11.pdf).
+My publications are available via [ResearchGate](https://www.researchgate.net/profile/Thomas-Wieland-5) and [Google Scholar](https://scholar.google.com/citations?user=zaddjHsAAAAJ&hl=de). Information on past projects is available, in part, on my [former staff page at KIT](https://www.ifgg.kit.edu/mitarbeiter_wieland.php).
 
 
 <br>
