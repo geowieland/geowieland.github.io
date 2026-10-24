@@ -37,7 +37,7 @@ I develop open-source software for geographical analysis in Python and R. The mo
 
 ### Research topics
 
-During my active career as a scientist, these were my primary research focus areas:
+During my active career as a scientist, these were my research focus areas:
 
 - Retail geography
   - Consumer behavior (store and channel choice), especially in the context of multi-channel retailing
@@ -49,17 +49,21 @@ During my active career as a scientist, these were my primary research focus are
   - Spatial analysis of epidemic spreads
   - Evaluation of the effectiveness of non-pharmaceutical interventions (NPI)
 
-- Regional economics
-  - Economic growth and disparities in South Tyrol
-  - Methods of regional analysis
+- Other topics (selection)
+  - Economic growth and disparities in South Tyrol 
+  - GIS-based analysis of the development of settlement areas and cultural landscapes
   - Economic impact of tourism and tourist attractions
+  - Analysis of residential real estate markets
 
 ### Academic profiles and links
 
-- See my [ResearchGate profile](https://www.researchgate.net/profile/Thomas-Wieland-5)
-- See my [Google Scholar profile](https://scholar.google.com/citations?user=zaddjHsAAAAJ&hl=de)
-- See the full list of all publications and presentations [here](files/Publications_Wieland_2026-10-11.pdf)
-- See my former [staff page at KIT](https://www.ifgg.kit.edu/mitarbeiter_wieland.php)
+- [LinkedIn](https://www.linkedin.com/in/thomas-wieland-6b3070b2)
+- [ResearchGate](https://www.researchgate.net/profile/Thomas-Wieland-5)
+- [Google Scholar](https://scholar.google.com/citations?user=zaddjHsAAAAJ&hl=de)
+- [ORCID](https://orcid.org/0000-0001-5168-9846)
+
+Information on past projects is available, in part, on my [former staff page at KIT](https://www.ifgg.kit.edu/mitarbeiter_wieland.php). See the full list of all publications and presentations [here](files/Publications_Wieland_2026-10-11.pdf).
+
 
 <br>
 
