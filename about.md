@@ -39,11 +39,20 @@ I develop open-source software for geographical analysis in Python and R. The mo
 
 During my active career as a scientist, these were my primary research focus areas:
 
-- Retail geography, especially consumer behavior (store and channel choice) in the context of multi-channel retailing, market areas of stores, and location analysis
+- Retail geography
+  - Consumer behavior (store and channel choice), especially in the context of multi-channel retailing
+  - Market areas of stores, especially with respect to the effect of spatial clustering
+  - Location analysis and store performance models
 
-- Health geography, especially spatial accessibility of health care locations, spatial analysis of epidemic spreads, and evaluation of the effectiveness of non-pharmaceutical interventions
+- Health geography
+  - Spatial accessibility of health care locations
+  - Spatial analysis of epidemic spreads
+  - Evaluation of the effectiveness of non-pharmaceutical interventions (NPI)
 
-- Regional economic growth and disparities, and methods of regional analysis
+- Regional economics
+  - Economic growth and disparities in South Tyrol
+  - Methods of regional analysis
+  - Economic impact of tourism and tourist attractions
 
 ### Academic profiles and links
 
