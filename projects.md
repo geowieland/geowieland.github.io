@@ -22,6 +22,13 @@ The `huff` Python library is designed for performing market area analyses with t
 - [Methodological handbook](https://geowieland.github.io/huff_official/)  
 - [Medium article](https://medium.com/@geowieland/oldie-but-goodie-market-area-models-and-retail-location-analysis-in-python-9f6609355585?source=friends_link&sk=a0314d63cee214cda92aa8fd13d92b64)  
 
+### Used in Research
+
+The list below includes selected publications using this package and may not be exhaustive.
+
+- Kapitza J, Wieland T, Metzler M (2026) Modeling hospital catchment areas in pediatric oncology using an empirically parameterized extended Huff model. *International Journal of Health Geographics*. [10.1186/s12942-026-00478-2](https://doi.org/10.1186/s12942-026-00478-2)
+
+
 
 ## diffindiff: Python library for convenient Difference-in-Differences analyses
 
@@ -33,15 +40,19 @@ The `diffindiff` Python library is designed for performing Difference-in-Differe
 - [PyPI](https://pypi.org/project/diffindiff/)   
 - [Zenodo](https://doi.org/10.5281/zenodo.18656820)  
 
-### Documentation
+### Used in Research
 
-- [Case study (preprint)](https://doi.org/10.48550/arXiv.2605.21464)  
+The list below includes selected publications using this package and may not be exhaustive.
+
+- Wieland T (2026) Assessing the impact of tourist attractions through the integration of causal inference and demand-side economic analysis: A case study of the Sensoria experience museum in Holzminden, Germany. *arXiv* preprint. [10.48550/arXiv.2605.21464](https://doi.org/10.48550/arXiv.2605.21464)
+
 
 <br>
 
 <img src="https://www.r-project.org/logo/Rlogo.png"
      alt="R"
      width="50">
+
 
 ## swash: Health Geography Toolbox for Model-Based Analysis of Infections Panel Data
 
@@ -55,7 +66,15 @@ Within epidemic outbreaks, infections grow and decline differently between regio
 
 ### Documentation
 
+- [Methodological handbook](https://geowieland.github.io/swash_official/)  
 - [Reference manual (CRAN)](https://cran.r-project.org/web/packages/swash/refman/swash.html)
+
+### Used in Research
+
+The list below includes selected publications using this package and may not be exhaustive.
+
+*Coming soon*
+
 
 
 ## C19dNUTS: Dataset of Regional COVID-19 Deaths per 100,000 Pop (NUTS)
@@ -71,6 +90,7 @@ Dataset containing cumulative COVID-19 deaths (absolute and per 100,000 pop) at 
 - [Reference manual (CRAN)](https://cran.r-project.org/web/packages/C19dNUTS/refman/C19dNUTS.html)
 
 
+
 ## MCI2: Market Area Models for Retail and Service Locations
 
 Market area models are used to analyze and predict store choices and market areas concerning retail and service locations. This package is a more user-friendly wrapper of the functions in the package `MCI` providing market area analysis using the Huff Model or the Multiplicative Competitive Interaction (MCI) Model. In `MCI2`, also a function for creating transport costs matrices is provided. 
@@ -80,6 +100,13 @@ Market area models are used to analyze and predict store choices and market area
 not publicly available
 
 - [previous CRAN page](https://cran.r-project.org/package=MCI2)
+
+### Used in Research
+
+The list below includes selected publications using this package and may not be exhaustive.
+
+*Coming soon*
+
 
 
 ## REAT: Regional Economic Analysis Toolbox
@@ -93,8 +120,14 @@ The `REAT` package is a collection of models and analysis methods used in region
 ### Documentation
 
 - [Software paper](https://doi.org/10.18335/region.v6i3.267)  
-- [Case study](https://www.westermann.de/anlage/4642908/50-Jahre-Suedtiroler-Autonomie-Regionaloekonomische-Entwicklung-einer-laendlichen-Boomregion)  
 - [Reference manual (CRAN)](https://cran.r-project.org/web/packages/REAT/refman/REAT.html)
+
+### Used in Research
+
+The list below includes selected publications using this package and may not be exhaustive.
+
+- Wieland T (2022) 50 Jahre Südtiroler Autonomie: Regionalökonomische Entwicklung einer "ländlichen" Boomregion. *Geographische Rundschau* 74(1-2), 46-51. https://www.westermann.de/anlage/4642908/50-Jahre-Suedtiroler-Autonomie-Regionaloekonomische-Entwicklung-einer-laendlichen-Boomregion.
+
 
 
 ## MCI: Multiplicative Competitive Interaction (MCI) Model
@@ -109,6 +142,13 @@ Market area models are used to analyze and predict store choices and market area
 
 - [Software paper](https://doi.org/10.32614/RJ-2017-020)  
 - [Reference manual (CRAN)](https://cran.r-project.org/web/packages/MCI/refman/MCI.html)
+
+### Used in Research
+
+The list below includes selected publications using this package and may not be exhaustive.
+
+*Coming soon*
+
 
 
 *Python logo: Python® and the Python logos are trademarks
