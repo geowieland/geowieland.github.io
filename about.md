@@ -22,6 +22,8 @@ I develop open-source software for geographical analysis in Python and R. The mo
 
 **2010-2012**: External GIS project consultant at Autonome Provinz Bozen/Südtirol – Landesinstitut für Statistik (ASTAT), Bozen (IT)
 
+**Since 2010**: Part-time professional activity as a lecturer and (previously) also as a consultant/analyst
+
 **2008-2013**: Research assistant at Georg August University Göttingen, Institute of Geography
 
 *My open-source software projects are developed independently in my personal time and are not affiliated with, endorsed by, or representative of my employer. Any views or opinions expressed through these projects are my own and do not necessarily reflect those of my employer.
@@ -35,22 +37,26 @@ I develop open-source software for geographical analysis in Python and R. The mo
 
 ## Scientific work
 
-### Research topics
+During my active career as a scientist, these were my research focus areas:
 
-During my active career as a scientist, these were my primary research focus areas:
+- Retail geography
+  - Consumer behavior (store and channel choice), especially in the context of multi-channel retailing
+  - Market areas of stores, especially with respect to the effect of spatial clustering
+  - Location analysis and store performance models
 
-- Retail geography, especially consumer behavior (store and channel choice) in the context of multi-channel retailing, market areas of stores, and location analysis
+- Health geography
+  - Spatial accessibility of health care locations
+  - Spatial analysis of epidemic spreads
+  - Evaluation of the effectiveness of non-pharmaceutical interventions (NPI)
 
-- Health geography, especially spatial accessibility of health care locations, spatial analysis of epidemic spreads, and evaluation of the effectiveness of non-pharmaceutical interventions
+- Some other topics
+  - Economic growth and disparities
+  - GIS-based analysis of the development of settlement areas and cultural landscapes
+  - Economic impact of tourism and tourist attractions
+  - Analysis of residential real estate markets
 
-- Regional economic growth and disparities, and methods of regional analysis
+My publications are available via [ResearchGate](https://www.researchgate.net/profile/Thomas-Wieland-5) and [Google Scholar](https://scholar.google.com/citations?user=zaddjHsAAAAJ&hl=de). Information on past projects is available, in part, on my [former staff page at KIT](https://www.ifgg.kit.edu/mitarbeiter_wieland.php).
 
-### Academic profiles and links
-
-- See my [ResearchGate profile](https://www.researchgate.net/profile/Thomas-Wieland-5)
-- See my [Google Scholar profile](https://scholar.google.com/citations?user=zaddjHsAAAAJ&hl=de)
-- See the full list of all publications and presentations [here](files/Publications_Wieland_2026-10-11.pdf)
-- See my former [staff page at KIT](https://www.ifgg.kit.edu/mitarbeiter_wieland.php)
 
 <br>
 
